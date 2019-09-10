@@ -1,0 +1,18 @@
+openapi: 3.0.1
+info:
+  title: Family Mutale Portal
+  description: 'This is an API for the family portal of Familie Mutale'
+  termsOfService: http://swagger.io/terms/
+  contact:
+    email: develop@mutale.family
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  version: 1.0.0
+servers:
+- url: api/
+
+paths:
+  /users:
+  
+  
