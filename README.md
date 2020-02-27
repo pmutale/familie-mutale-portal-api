@@ -1,4 +1,4 @@
-# API: SHORTEN A URL
+# API: FAMILIE MUTALE
 
 ## Requirements
 Python 3.5.2+
@@ -7,13 +7,13 @@ Python 3.5.2+
 
 To test live server
 
- visit [Google App Engine AppSpot](https://shorten-url-usecase.appspot.com/urls/ui/)
+ visit [Google App Engine AppSpot](https://family-mutale.appspot.com/urls/ui/)
 
 ## Usage
 To run the server, please execute the following from the root directory:
 
 ```
-$ git clone git@github.com:pmutale/shorten-url.git
+$ git clone git@github.com:pmutale/familie-mutale-portal-api.git
 $ cd shorten-url/
 $ python3 -m venv venv
 $ . venv/bin/activate
